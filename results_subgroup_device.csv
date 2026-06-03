@@ -1,0 +1,13 @@
+Outcome,Device,k,Pooled_pct,CI95_Lo,CI95_Hi,I2_pct,Q,p_Q,tau2,Note
+Flap Loss,IDP,9,2.73,1.08,6.73,47.1,15.122,0.0568,0.8219,
+Flap Loss,Color Doppler,6,4.52,1.58,12.26,0.0,2.527,0.7724,0.0,
+Flap Loss,NIRS,3,2.35,0.82,6.49,0.0,0.669,0.7158,0.0,
+Flap Loss,Other,2,2.57,0.33,17.38,34.2,1.519,0.2178,0.7984,
+Flap Loss,Between-device Q,4,,,,,0.877,0.831,,n.s.
+Flap Loss,Overall Type A,20,3.48,2.16,5.56,11.1,21.382,0.3161,0.1328,Overall
+Return to Theater,IDP,9,6.45,2.73,14.49,79.6,39.237,0.0,1.2882,
+Return to Theater,Color Doppler,6,8.62,3.88,18.04,0.0,4.191,0.5222,0.0,
+Return to Theater,NIRS,3,9.12,4.35,18.12,35.4,3.097,0.2126,0.1755,
+Return to Theater,Other,2,5.84,1.41,21.18,51.7,2.071,0.1501,0.5792,
+Return to Theater,Between-device Q,4,,,,,0.61,0.8941,,n.s.
+Return to Theater,Overall Type A,20,6.93,4.29,11.02,62.2,50.202,0.0001,0.6684,Overall

@@ -1,0 +1,7 @@
+Case,Group,k,Pooled_pct,CI95_Lo,CI95_Hi,I2_pct,Q,p_Q,tau2
+A (denom=Reop_buried),Overall,11,22.33,10.91,40.29,0.0,6.101,0.8067,0.0
+B (denom=total_flap_n),Overall,18,2.67,1.53,4.61,0.0,10.872,0.8631,0.0
+A (denom=Reop_buried),IDP,5,36.15,14.66,65.12,0.0,,,
+A (denom=Reop_buried),Color Doppler,2,17.44,2.34,65.01,0.0,,,
+A (denom=Reop_buried),NIRS,2,6.79,0.95,35.73,0.0,,,
+A (denom=Reop_buried),Other,2,16.67,2.28,63.13,0.0,,,
